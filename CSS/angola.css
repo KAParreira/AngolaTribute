@@ -1,0 +1,43 @@
+body{
+
+      background: linear-gradient(90deg, #FF0000 5%, #FF8C00 95%);
+	
+}
+
+
+h1{
+     
+     color:#FF0000;
+   
+ 
+}
+
+
+
+h5{
+	 
+     color:#FFD700;
+	 padding-left:2%;
+  
+}
+
+iframe {
+	 
+	 padding:1%;
+	 width:auto;
+	 height:250px;
+	 
+}
+.col {
+	 
+	 padding:1%;
+}
+	
+}
+
+.card {
+	 
+	 padding:1%;
+	 
+	
+}
